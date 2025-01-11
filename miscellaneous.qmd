@@ -1,0 +1,22 @@
+---
+title: "Miscellaneous"
+---
+
+I like to read (mostly fiction). Some of the books I have enjoyed (not in a particular order) are as follows.
+
+| Book                                               | Author             |
+|----------------------------------------------------|--------------------|
+| The Devotion of Suspect X                          | Keigo Higashino    |
+| Salvation of a Saint                               | Keigo Higashino    |
+| A Midsummer's Equation                             | Keigo Higashino    |
+| Silent Parade                                      | Keigo Higashino    |
+| Malice                                             | Keigo Higashino    |
+| Newcomer                                           | Keigo Higashino    |
+| A Death in Tokyo                                   | Keigo Higashino    |
+| The Final Curtain                                  | Keigo Higashino    |
+| The Name of the Game is a Kidnapping               | Keigo Higashino    |
+| Journey Under the Midnight Sun                     | Keigo Higashino    |
+| Naoko                                              | Keigo Higashino    |
+| The Harry Potter series                            | J. K. Rowling      |
+
+: {.striped .hover}

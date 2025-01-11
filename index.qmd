@@ -1,0 +1,24 @@
+---
+title: "Ajinkya Ranade"
+image: Ajinkya.jpg
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ajinkya-ranade-phd-b4b899130/
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/ajinkyaranade3
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:ajinkyaranade3@gmail.com
+      target: _blank
+---
+
+Hello! My name is Ajinkya Ranade. I am a JSPS Postdoctoral fellow at [Tokyo Institute of Technology](https://www.titech.ac.jp/english){target="_blank"}, Meguro, Japan

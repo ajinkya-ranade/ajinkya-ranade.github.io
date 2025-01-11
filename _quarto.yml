@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Ajinkya Ranade
+      - publications.qmd
+      - miscellaneous.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/aditya-ranade-a3944349/
+        target: _blank
+      - icon: github
+        href: https://github.com/adityaranade
+        target: _blank
+      - icon: envelope
+        href: mailto:aranade@iastate.edu
+
+format:
+  html:
+    theme: sketchy.scss
+    highlight-style: pygments
+    linkcolor: "#001FFD"
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
