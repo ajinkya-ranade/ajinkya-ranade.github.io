@@ -1,2 +1,1 @@
-# ajinkyaranade3.github.io
-Personal Website
+My personal website is ajinkyaranade3.github.io
