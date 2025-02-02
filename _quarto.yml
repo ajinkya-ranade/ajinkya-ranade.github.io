@@ -9,16 +9,20 @@ website:
       - href: index.qmd
         text: Ajinkya Ranade
       - publications.qmd
+      - awards.qmd
       - miscellaneous.qmd
     right: 
       - icon: linkedin
-        href: https://www.linkedin.com/in/aditya-ranade-a3944349/
+        href: https://www.linkedin.com/in/ajinkya-ranade-phd-b4b899130/
         target: _blank
       - icon: github
-        href: https://github.com/adityaranade
+        href: https://github.com/ajinkyaranade3
+        target: _blank
+      - icon: researchgate
+        href: https://www.researchgate.net/profile/Ajinkya-Ranade
         target: _blank
       - icon: envelope
-        href: mailto:aranade@iastate.edu
+        href: mailto:ajinkyaranade3@gmail.com
 
 format:
   html:
