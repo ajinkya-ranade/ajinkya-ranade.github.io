@@ -2,4 +2,34 @@
 title: "Publications" 
 ---
 
-Good things take time! Something exciting is coming up soon! Keep calm and work hard!🙂
+-   Ajinkya Kishor Ranade\*, Akira Yamaguchi, Masahiro Miyauchi, Sreenivasan Ramaswami, Chihiro Yoshimura, “Interface dependent electron shunting in graphene-integrated intimately coupled photocatalytic biodegradation”, Water Research, Volume 273,123064, 2025. <https://doi.org/10.1016/j.watres.2024.123064> .
+
+-   Ajinkya K. Ranade*, Rakesh D. Mahyavanshi, Pradeep Desai, Masashi Kato, Masaki Tanemura, Golap Kalita*, “Ultraviolet light induced electrical hysteresis effect in graphene-GaN heterojunction”, Applied Physics Letters, 114, 151102, 2019. DOI: 10.1063/1.5084190.
+
+    -   (Above article was highlighted in renowned scientific websites i.e. www.graphene-info.com and www.nanowerk.com which report on significant advancement in graphene technology and nanotechnology respectively.)
+
+        -   a\. <https://www.graphene-info.com/understanding-graphenegan-and-other-2d3d-interfaces-uv-> illumination-could-be-crucial-next-gen
+
+        -   b\. <https://www.nanowerk.com/nanotechnology-news2/newsid=52924.php>
+
+-   Ajinkya K. Ranade*, Pradeep Desai, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita*, “Formation of effective CuI‐GaN heterojunction with excellent ultraviolet photoresponsive photovoltage”, Phys. Status Solidi A, 216, 1900200, 2019. DOI: 10.1002/pssa.201900200
+
+-   K.F. Chan, A.K. Ranade, P. Desai, M.A. Hazan, N.F.I. Azman, S. Shaharifin, G. Kalita, M.S. Kamat, M. Tanemura, Y. Yaakob, “Upcycling the barbeque grease into carbon nanomaterials”, Carbon Trends, Volume 6, 2022, DOI: <https://doi.org/10.1016/j.cartre.2021.100143>
+
+-   Rama Venkata Krishna Rao, Ajinkya K. Ranade, Pradeep Desai, Golap Kalita, Hiroo Suzuki, Yasuhiko Hayashi, “Temperature-dependent device properties of γ-CuI and β-Ga2O3 heterojunctions”, SN Appl. Sci. 3, 796, 2021, DOI: <https://doi.org/10.1007/s42452-021-04774-3>
+
+-   Bhagyashri Todankar*, Pradeep Desai, Ajinkya K. Ranade, Tharangattu N. Narayanan, Masaki Tanemura, Golap Kalita*, Trifunctional Electrocatalytic Activities of Nitrogen-Doped Graphitic Carbon Nanofibers Synthesized by Chemical Vapor Deposition, ChemistrySelect, 6, 4867, 2021. DOI: 10.1002/slct.2021010682
+
+-   Pradeep Desai*, Bhagyashri Todankar, Ajinkya K. Ranade, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura, Golap Kalita*, “Synthesis of MoS2 Layers on GaN Using Ammonium Tetrathiomolybdate for Heterojunction Device Applications”, Crystal Research and Technology, 2000198, 2021. DOI: 10.1002/crat.202000198
+
+-   Pradeep Desai*, Ajinkya K. Ranade, Mandar Shinde, Bhagyashri Todankar, Rakesh D. Mahyavanshi , Masaki Tanemura, Golap Kalita*, “Growth of uniform MoS2 layers on free-standing GaN semiconductor for vertical heterojunction device application”, Journal of Materials Science: Materials in Electronics, 31, 2040-2048, 2020. DOI: 10.1007/s10854-019-02723-w
+
+-   Muhammed Emre Ayhan\*, Mandar Shinde, Bhagyashri Todankar, Pradeep Desai, Ajinkya K. Ranade, Masaki Tanemura, Golap Kalita, “Ultraviolet radiation-induced photovoltaic action in γ- CuI/β-Ga2O3 heterojunction”, Materials Letters, 262, 127074, 2020, DOI: 10.1016/j.matlet.2019.127074
+
+-   Pradeep Desai*, Ajinkya K. Ranade, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita*, “Influence of MoS2-silicon interface states on spectral photoresponse characteristics”, Phys. Status Solidi A, 216, 1900349, 2019. DOI: 10.1002/pssa.201900349
+
+-   Rakesh D. Mahyavanshi*, Pradeep Desai, Ajinkya Ranade, Masaki Tanemura, Golap Kalita*, “Observing charge transfer interaction in CuI and MoS2 heterojunction for photoresponsive device application” ACS Appl. Electron. Mater. 1,3, 302-310, 2019. DOI: 10.1021/acsaelm.8b00069
+
+-   Rakesh D. Mahyavanshi*, Golap Kalita*, Ajinkya Ranade, Pradeep Desai, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura, “Photovoltaic action with broadband photoresponsivity in germanium-MoS2 ultrathin heterojunction” IEEE Transaction on electron devices,65,10, 4434- 4440, 2018. DOI: 10.1109/ted.2018.2864174
+
+-   Golap Kalita\*, Rakesh D. Mahyavanshi, Pradeep Desai, Ajinkya K. Ranade, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura, “Photovoltaic action in graphene–Ga2O3 heterojunction with deep- ultraviolet irradiation”, Phys. Status Solidi RRL, 12, 1800198, 2018. DOI: 10.1002/pssr.201800198

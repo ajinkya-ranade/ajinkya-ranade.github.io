@@ -1,0 +1,17 @@
+---
+title: "Presentations" 
+---
+
+Paper presentations at Conference / Symposium
+
+-   “Interface-engineered electron shuttling in graphene-based intimately coupled photocatalytic biodegradation for enhanced antibiotic degradation”, Ajinkya K. Ranade, Akira Yamaguchi, Sreenivasan Ramaswami, Masahiro Miyauchi, Chihiro Yoshimura, The 8th Symposium on Environmental Water Quality Engineering, Yamanashi University, Japan. (1 st June 2024)
+
+-   “Schottky Junction Properties of Graphene with Nitrogen and Gallium Polar Freestanding GaN”, The 19th IEEE International Conference on Nanotechnology, Macau SAR, China, July 22-26 2019, Ajinkya K. Ranade, Rakesh Mahyavanshi, Pradeep Desai, Masaki Tanemura, Golap Kalita.
+
+-   “Ultraviolet Light Induced Electrical Hysteresis Effect in Graphene-GaN Heterojunction”, The 66th JSAP Spring Meeting 2019, Tokyo, Ajinkya K. Ranade, Rakesh Mahyavanshi, Pradeep Desai, Masaki Tanemura, Golap Kalita.
+
+-   “Temperature dependent ultraviolet photoresponsive behaviour in γ-CuI/GaN heterojunction”, The 80th JSAP Autumn Meeting 2019, Hokkaido, Japan, Ajinkya K. Ranade, Pradeep Desai, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita.
+
+-   “Interface dependent photoresponsivity in graphene GaN heterojunction”, 57th Fullerenes- Nanotube-graphene symposium, Nagoya, Japan, Ajinkya K. Ranade, Pradeep Desai, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita.
+
+-   “Understanding photocarrier dynamics of graphene/GaN heterojunction”, Ajinkya K. Ranade, Rakesh Mahyavanshi, Pradeep Desai, Masaki Tanemura, Golap Kalita, FRIMS Symposium, Nagoya Institute of Technology, Nagoya, Japan. (November -2018).
