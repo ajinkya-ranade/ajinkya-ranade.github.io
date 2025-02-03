@@ -1,11 +1,11 @@
 ---
-title: "Ultraviolet light induced electrical hysteresis effect in graphene-GaN heterojunction"
+title: "Trifunctional Electrocatalytic Activities of Nitrogen-Doped Graphitic Carbon Nanofibers Synthesized by Chemical Vapor Deposition"
 type: "proceeding"
-author: "Ajinkya K. Ranade, Rakesh D. Mahyavanshi, Pradeep Desai, Masashi Kato, Masaki Tanemura, Golap Kalita"
-year: "2019"
-publication: ""
+author: "Bhagyashri Todankar, Pradeep Desai, Ajinkya K. Ranade, Tharangattu N. Narayanan, Masaki Tanemura, Golap Kalita"
+year: "2021"
+publication: "ChemistrySelect, 6, 4867"
 preprint: ""
-doi: "10.1063/1.5084190"
+doi: "10.1002/slct.2021010682"
 materials: ""
 toc: false
 categories:

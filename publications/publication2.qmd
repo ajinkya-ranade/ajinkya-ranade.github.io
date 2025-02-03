@@ -1,12 +1,12 @@
 ---
-title: "Upcycling the barbeque grease into carbon nanomaterials"
+title: "Ultraviolet light induced electrical hysteresis effect in graphene-GaN heterojunction"
 type: "proceeding"
-author: "K.F. Chan, A.K. Ranade, P. Desai, M.A. Hazan, N.F.I. Azman, S. Shaharifin, G. Kalita, M.S. Kamat, M. Tanemura, Y. Yaakob"
-year: "2022"
-publication:
-preprint: 
-doi: "https://doi.org/10.1016/j.cartre.2021.100143"
-materials: 
+author: "Ajinkya K. Ranade, Rakesh D. Mahyavanshi, Pradeep Desai, Masashi Kato, Masaki Tanemura, Golap Kalita"
+year: "2019"
+publication: "Applied Physics Letters, 114, 151102"
+preprint: ""
+doi: "10.1063/1.5084190"
+materials: ""
 toc: false
 categories:
 ---

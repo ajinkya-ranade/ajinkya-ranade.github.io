@@ -1,11 +1,11 @@
 ---
-title: "Growth of uniform MoS2 layers on free-standing GaN semiconductor for vertical heterojunction device application"
+title: "Photovoltaic action in graphene–Ga2O3 heterojunction with deep- ultraviolet irradiation"
 type: "proceeding"
-author: "Pradeep Desai, Ajinkya K. Ranade, Mandar Shinde, Bhagyashri Todankar, Rakesh D. Mahyavanshi , Masaki Tanemura, Golap Kalita"
-year: "2020"
-publication: "Journal of Materials Science: Materials in Electronics, 31, 2040-2048, 2020."
+author: "Golap Kalita*, Rakesh D. Mahyavanshi, Pradeep Desai, Ajinkya K. Ranade, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura"
+year: "2018"
+publication: "Phys. Status Solidi RRL, 12, 1800198"
 preprint: ""
-doi: "10.1007/s10854-019-02723-w"
+doi: "10.1002/pssr.201800198"
 materials: ""
 toc: false
 categories:

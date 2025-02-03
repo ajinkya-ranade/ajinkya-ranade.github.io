@@ -1,5 +1,5 @@
 ---
-title: "Ajinkya Ranade"
+title: "Ajinkya Ranade, PhD"
 image: Ajinkya.jpg
 toc: false
 about:
@@ -11,13 +11,17 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/ajinkya-ranade-phd-b4b899130/
       target: _blank
-    - icon: github
-      text: Github
-      href: https://github.com/ajinkyaranade3
+    - icon: "{{< ai orcid >}}"
+      text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/my-orcid?orcid=0000-0003-3945-2656
       target: _blank
-    - icon: Researchgate
-      text: Researchgate
+    - icon: "{{< ai researchgate >}}" 
+      text: "{{< ai researchgate >}} Researchgate"
       href: https://www.researchgate.net/profile/Ajinkya-Ranade
+      target: _blank
+    - icon: "{{< ai google-scholar >}}"
+      text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=Yir-Mq8AAAAJ&hl=en
       target: _blank
     - icon: envelope
       text: Email
@@ -25,12 +29,13 @@ about:
       target: _blank
 ---
 
-Hello! My name is Ajinkya Ranade. I currently work as JSPS postdoctoral fellow at [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"} , Japan. My research focuses on innovating efficient, sustainable and fit-for-purpose water treatment technologies for water recycling and energy conservation.
+I am Ajinkya Ranade, currently working as JSPS postdoctoral fellow at [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"}, Japan. My research focusses on innovating efficient, sustainable and [**fit-for-purpose**]{.underline} water treatment technologies [**for water recycling and energy conservation.**]{.underline}
 
-An analytical chemist with interdisciplinary research experience in graphene technology, optoelectronics, and wastewater treatment exploring opportunities to innovate sustainable treatment technologies in the research and development sector. I aim to utilize my interdisciplinary background for innovation in clean energy and tackling the water-energy nexus to achieve a sustainable future. Currently looking for organizations that will provide me ample scope to nurture this interest and develop my skills.
+An analytical chemist with interdisciplinary research experience in graphene technology, semiconductor technology, optoelectronics, and wastewater treatment exploring opportunities to innovate **sustainable water treatment technologies** in the research and development sector. I aim to utilize my interdisciplinary knowledge to tackle **water-energy nexus and provide energy efficient and recyclable water treatment solutions** particularly for developing nations. Currently looking for organizations that provides me ample scope to nurture this interest and develop my skills.
 
--   Expertise in individual (adsorption, photocatalysis, biodegradation ) and synergic (intimately coupled photocatalytic biodegradation) wastewater treatment technologies with a critical focus on sustainability
+-   Expertise in individual water treatment technologies (adsorption, photocatalysis, biodegradation ) and synergic water treatment technology (intimately coupled photocatalytic biodegradation) with a critical focus on sustainability and energy efficiency
 -   Expertise in materials engineering, graphene technology, semiconductor technology and optoelectronics
--   Expertise in fabrication of high-quality monolayer graphene using (atmospheric and low pressure) chemical vapor deposition techniques
+-   Expertise in fabrication of high-quality monolayer graphene using (atmospheric and low pressure)\
+    chemical vapor deposition techniques
 -   Published three first author publication and 9 co-author publications
--   Recent publication in the prestigious Water Research Journal
+-   Recent publication in the prestigious **Water Research** Journal

@@ -1,11 +1,11 @@
 ---
-title: "Photovoltaic action with broadband photoresponsivity in germanium-MoS2 ultrathin heterojunction"
+title: "Growth of uniform MoS2 layers on free-standing GaN semiconductor for vertical heterojunction device application"
 type: "proceeding"
-author: "Rakesh D. Mahyavanshi, Golap Kalita, Ajinkya Ranade, Pradeep Desai, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura"
-year: "2018"
-publication: "IEEE Transaction on electron devices,65,10, 4434- 4440"
+author: "Pradeep Desai, Ajinkya K. Ranade, Mandar Shinde, Bhagyashri Todankar, Rakesh D. Mahyavanshi , Masaki Tanemura, Golap Kalita"
+year: "2020"
+publication: "Journal of Materials Science: Materials in Electronics, 31, 2040-2048, 2020."
 preprint: ""
-doi: "10.1109/ted.2018.2864174"
+doi: "10.1007/s10854-019-02723-w"
 materials: ""
 toc: false
 categories:

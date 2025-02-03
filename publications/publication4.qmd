@@ -1,12 +1,12 @@
 ---
-title: "Formation of effective CuI‐GaN heterojunction with excellent ultraviolet photoresponsive photovoltage"
+title: "Upcycling the barbeque grease into carbon nanomaterials"
 type: "proceeding"
-author: "Ajinkya K. Ranade*, Pradeep Desai, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita*"
-year: "2019"
-publication: ""
-preprint: ""
-doi: "10.1002/pssa.201900200"
-materials: ""
+author: "K.F. Chan, A.K. Ranade, P. Desai, M.A. Hazan, N.F.I. Azman, S. Shaharifin, G. Kalita, M.S. Kamat, M. Tanemura, Y. Yaakob"
+year: "2022"
+publication: "Carbon Trends, Volume 6"
+preprint: 
+doi: "https://doi.org/10.1016/j.cartre.2021.100143"
+materials: 
 toc: false
 categories:
 ---

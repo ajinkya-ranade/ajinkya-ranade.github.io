@@ -3,6 +3,6 @@ title: "Publications"
 listing:
   - id: articles-list
     contents: publications/*.qmd
-    template: publication.ejs
-    sort: "date"
+    # template: publication.ejs
+    sort: false
 ---

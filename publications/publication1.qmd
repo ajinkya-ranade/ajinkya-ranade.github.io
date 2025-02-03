@@ -3,7 +3,7 @@ title: "Interface dependent electron shunting in graphene-integrated intimately 
 type: "proceeding"
 author: "Ajinkya Kishor Ranade*, Akira Yamaguchi, Masahiro Miyauchi, Sreenivasan Ramaswami, Chihiro Yoshimura"
 year: "2025"
-publication:
+publication: "Water Research, Volume 273,123064"
 preprint: 
 doi: "https://doi.org/10.1016/j.watres.2024.123064"
 materials: 

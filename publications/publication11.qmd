@@ -1,12 +1,14 @@
 ---
-title: "Influence of MoS2-silicon interface states on spectral photoresponse characteristics"
+title: "Observing charge transfer interaction in CuI and MoS2 heterojunction for photoresponsive device application"
 type: "proceeding"
-author: "Pradeep Desai, Ajinkya K. Ranade, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita"
+author: "Rakesh D. Mahyavanshi, Pradeep Desai, Ajinkya Ranade, Masaki Tanemura, Golap Kalita"
 year: "2019"
-publication: "Phys. Status Solidi A, 216, 1900349"
-preprint: ""
-doi: "10.1002/pssa.201900349"
-materials: ""
+publication: "ACS Appl. Electron. Mater. 1,3, 302-310"
+preprint: 
+doi: "10.1021/acsaelm.8b00069"
+materials: 
 toc: false
 categories:
 ---
+
+-   

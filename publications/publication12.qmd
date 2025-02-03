@@ -1,11 +1,11 @@
 ---
-title: "Ultraviolet radiation-induced photovoltaic action in γ- CuI/β-Ga2O3 heterojunction"
+title: "Photovoltaic action with broadband photoresponsivity in germanium-MoS2 ultrathin heterojunction"
 type: "proceeding"
-author: "Muhammed Emre Ayhan*, Mandar Shinde, Bhagyashri Todankar, Pradeep Desai, Ajinkya K. Ranade, Masaki Tanemura, Golap Kalita"
-year: "2020"
-publication: "Materials Letters, 262, 127074"
+author: "Rakesh D. Mahyavanshi, Golap Kalita, Ajinkya Ranade, Pradeep Desai, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura"
+year: "2018"
+publication: "IEEE Transaction on electron devices,65,10, 4434- 4440"
 preprint: ""
-doi: "10.1016/j.matlet.2019.127074"
+doi: "10.1109/ted.2018.2864174"
 materials: ""
 toc: false
 categories:

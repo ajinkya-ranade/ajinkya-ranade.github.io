@@ -1,12 +1,12 @@
 ---
-title: "Trifunctional Electrocatalytic Activities of Nitrogen-Doped Graphitic Carbon Nanofibers Synthesized by Chemical Vapor Deposition"
+title: "Temperature-dependent device properties of γ-CuI and β-Ga2O3 heterojunctions"
 type: "proceeding"
-author: "Bhagyashri Todankar, Pradeep Desai, Ajinkya K. Ranade, Tharangattu N. Narayanan, Masaki Tanemura, Golap Kalita"
+author: "Rama Venkata Krishna Rao, Ajinkya K. Ranade, Pradeep Desai, Golap Kalita, Hiroo Suzuki, Yasuhiko Hayashi"
 year: "2021"
-publication: ""
-preprint: ""
-doi: "10.1002/slct.2021010682"
-materials: ""
+publication: "SN Appl. Sci. 3, 796"
+preprint: 
+doi: "https://doi.org/10.1007/s42452-021-04774-3"
+materials: 
 toc: false
 categories:
 ---
