@@ -1,0 +1,12 @@
+---
+title: "Influence of MoS2-silicon interface states on spectral photoresponse characteristics"
+type: "proceeding"
+author: "Pradeep Desai, Ajinkya K. Ranade, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita"
+year: "2019"
+publication: "Phys. Status Solidi A, 216, 1900349"
+preprint: ""
+doi: "10.1002/pssa.201900349"
+materials: ""
+toc: false
+categories:
+---

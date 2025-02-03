@@ -1,0 +1,12 @@
+---
+title: "Growth of uniform MoS2 layers on free-standing GaN semiconductor for vertical heterojunction device application"
+type: "proceeding"
+author: "Pradeep Desai, Ajinkya K. Ranade, Mandar Shinde, Bhagyashri Todankar, Rakesh D. Mahyavanshi , Masaki Tanemura, Golap Kalita"
+year: "2020"
+publication: "Journal of Materials Science: Materials in Electronics, 31, 2040-2048, 2020."
+preprint: ""
+doi: "10.1007/s10854-019-02723-w"
+materials: ""
+toc: false
+categories:
+---

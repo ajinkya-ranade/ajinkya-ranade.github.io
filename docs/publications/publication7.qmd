@@ -1,0 +1,11 @@
+---
+title: "Synthesis of MoS2 Layers on GaN Using Ammonium Tetrathiomolybdate for Heterojunction Device Applications"
+author: "Pradeep Desai, Bhagyashri Todankar, Ajinkya K. Ranade, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura, Golap Kalita"
+year: "2021"
+publication: "Crystal Research and Technology, 2000198"
+preprint: ""
+doi: "10.1002/crat.202000198"
+materials: ""
+toc: false
+categories:
+---

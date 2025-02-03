@@ -1,0 +1,12 @@
+---
+title: "Photovoltaic action in graphene–Ga2O3 heterojunction with deep- ultraviolet irradiation"
+type: "proceeding"
+author: "Golap Kalita*, Rakesh D. Mahyavanshi, Pradeep Desai, Ajinkya K. Ranade, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura"
+year: "2018"
+publication: "Phys. Status Solidi RRL, 12, 1800198"
+preprint: ""
+doi: "10.1002/pssr.201800198"
+materials: ""
+toc: false
+categories:
+---

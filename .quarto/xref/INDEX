@@ -49,5 +49,59 @@
   },
   "publications/publication5.qmd": {
     "publication5.html": "44de053f"
+  },
+  "docs/publications/publication10.qmd": {
+    "publication10.html": "dd52f65b"
+  },
+  "docs/publications/publication11.qmd": {
+    "publication11.html": "00dff8ed"
+  },
+  "docs/publications/publication12.qmd": {
+    "publication12.html": "071af674"
+  },
+  "docs/publications/publication13.qmd": {
+    "publication13.html": "4b144501"
+  },
+  "docs/publications/publication6.qmd": {
+    "publication6.html": "5970e133"
+  },
+  "docs/publications/publication7.qmd": {
+    "publication7.html": "1c0da1bc"
+  },
+  "docs/publications/publication8.qmd": {
+    "publication8.html": "999eddf4"
+  },
+  "docs/publications/publication9.qmd": {
+    "publication9.html": "8897dd75"
+  },
+  "publications/publication10.qmd": {
+    "publication10.html": "91f049c9"
+  },
+  "publications/publication11.qmd": {
+    "publication11.html": "bdae0c07"
+  },
+  "publications/publication12.qmd": {
+    "publication12.html": "1403455d"
+  },
+  "publications/publication13.qmd": {
+    "publication13.html": "ac4c5f66"
+  },
+  "publications/publication6.qmd": {
+    "publication6.html": "6210398a"
+  },
+  "publications/publication7.qmd": {
+    "publication7.html": "90d42558"
+  },
+  "publications/publication8.qmd": {
+    "publication8.html": "8e081b8f"
+  },
+  "publications/publication9.qmd": {
+    "publication9.html": "82c05b99"
+  },
+  "Biography.qmd": {
+    "Biography.html": "1ef717ad"
+  },
+  "biography.qmd": {
+    "biography.html": "2c1f334f"
   }
 }

@@ -1,0 +1,14 @@
+---
+title: "Observing charge transfer interaction in CuI and MoS2 heterojunction for photoresponsive device application"
+type: "proceeding"
+author: "Rakesh D. Mahyavanshi, Pradeep Desai, Ajinkya Ranade, Masaki Tanemura, Golap Kalita"
+year: "2019"
+publication: "ACS Appl. Electron. Mater. 1,3, 302-310"
+preprint: 
+doi: "10.1021/acsaelm.8b00069"
+materials: 
+toc: false
+categories:
+---
+
+-   

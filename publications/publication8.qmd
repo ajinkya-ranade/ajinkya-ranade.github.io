@@ -1,0 +1,12 @@
+---
+title: "Photovoltaic action with broadband photoresponsivity in germanium-MoS2 ultrathin heterojunction"
+type: "proceeding"
+author: "Rakesh D. Mahyavanshi, Golap Kalita, Ajinkya Ranade, Pradeep Desai, Masaharu Kondo, Takehisa Dewa, Masaki Tanemura"
+year: "2018"
+publication: "IEEE Transaction on electron devices,65,10, 4434- 4440"
+preprint: ""
+doi: "10.1109/ted.2018.2864174"
+materials: ""
+toc: false
+categories:
+---
