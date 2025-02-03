@@ -1,0 +1,12 @@
+---
+title: "Upcycling the barbeque grease into carbon nanomaterials"
+type: "proceeding"
+author: "K.F. Chan, A.K. Ranade, P. Desai, M.A. Hazan, N.F.I. Azman, S. Shaharifin, G. Kalita, M.S. Kamat, M. Tanemura, Y. Yaakob"
+year: "2022"
+publication:
+preprint: 
+doi: "https://doi.org/10.1016/j.cartre.2021.100143"
+materials: 
+toc: false
+categories:
+---

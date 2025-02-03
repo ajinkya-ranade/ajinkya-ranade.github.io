@@ -1,0 +1,7 @@
+---
+title: "Publications"
+listing:
+  - id: articles-list
+    contents: publications/*.qmd
+    template: publication.ejs
+---

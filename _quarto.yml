@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Ajinkya Ranade
+      - about.qmd
+      - pubs.qmd
       - publications.qmd
       - presentations.qmd
       - awards.qmd
@@ -27,9 +29,9 @@ website:
 
 format:
   html:
-    theme: sketchy.scss
-    highlight-style: pygments
-    linkcolor: "#001FFD"
+    theme: spacelab
+    # highlight-style: pygments
+    # linkcolor: "#001FFD"
     css: styles.css
     toc: true
     page-layout: full

@@ -16,5 +16,38 @@
   },
   "presentations.qmd": {
     "presentations.html": "552b0a6b"
+  },
+  "about.qmd": {
+    "about.html": "6d7983b0"
+  },
+  "publications/publication1.qmd": {
+    "publication1.html": "a7ea8c8e"
+  },
+  "publications/publication2.qmd": {
+    "publication2.html": "dd737713"
+  },
+  "pubs.qmd": {
+    "pubs.html": "f6567991"
+  },
+  "docs/publications/p2.qmd": {
+    "p2.html": "50802432"
+  },
+  "docs/publications/publication2.qmd": {
+    "publication2.html": "cb6e1c60"
+  },
+  "docs/publications/publication3.qmd": {
+    "publication3.html": "5e1d36ce"
+  },
+  "publications/p2.qmd": {
+    "p2.html": "9b4f8cfa"
+  },
+  "publications/publication3.qmd": {
+    "publication3.html": "d7393231"
+  },
+  "publications/publication4.qmd": {
+    "publication4.html": "e7bc9d4a"
+  },
+  "publications/publication5.qmd": {
+    "publication5.html": "44de053f"
   }
 }

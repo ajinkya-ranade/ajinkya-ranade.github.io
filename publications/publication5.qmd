@@ -1,0 +1,14 @@
+---
+title: "Trifunctional Electrocatalytic Activities of Nitrogen-Doped Graphitic Carbon Nanofibers Synthesized by Chemical Vapor Deposition"
+type: "proceeding"
+author: "Bhagyashri Todankar, Pradeep Desai, Ajinkya K. Ranade, Tharangattu N. Narayanan, Masaki Tanemura, Golap Kalita"
+year: "2021"
+publication: ""
+preprint: ""
+doi: "10.1002/slct.2021010682"
+materials: ""
+toc: false
+categories:
+---
+
+-   , , ChemistrySelect, 6, 4867, 2021. DOI:

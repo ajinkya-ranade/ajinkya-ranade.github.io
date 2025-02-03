@@ -1,0 +1,12 @@
+---
+title: "Formation of effective CuI‐GaN heterojunction with excellent ultraviolet photoresponsive photovoltage"
+type: "proceeding"
+author: "Ajinkya K. Ranade*, Pradeep Desai, Rakesh Mahyavanshi, Masaki Tanemura, Golap Kalita*"
+year: "2019"
+publication: ""
+preprint: ""
+doi: "10.1002/pssa.201900200"
+materials: ""
+toc: false
+categories:
+---
