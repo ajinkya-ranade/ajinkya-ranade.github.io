@@ -1,1 +1,1 @@
-My personal website is ajinkyaranade3.github.io
+My personal website is ajinkya-ranade.github.io
