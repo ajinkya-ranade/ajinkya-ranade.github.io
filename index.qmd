@@ -35,9 +35,13 @@ I am Ajinkya Ranade, currently working as JSPS postdoctoral fellow at [Institute
 An analytical chemist with interdisciplinary research experience in graphene technology, semiconductor technology, optoelectronics, and wastewater treatment exploring opportunities to innovate **sustainable water treatment technologies** in the research and development sector. I aim to utilize my interdisciplinary knowledge to tackle **water-energy nexus and provide energy efficient and recyclable water treatment solutions** particularly for developing nations. Currently looking for organizations that provides me ample scope to nurture this interest and develop my skills.
 
 -   Expertise in individual water treatment technologies (adsorption, photocatalysis, biodegradation ) and synergic water treatment technology (intimately coupled photocatalytic biodegradation) with a critical focus on sustainability and energy efficiency
+
 -   Expertise in materials engineering, graphene technology, semiconductor technology and optoelectronics
+
 -   Expertise in fabrication of high-quality monolayer graphene using (atmospheric and low pressure)\
     chemical vapor deposition techniques
+
 -   Published three first author publication and 9 co-author publications
+
 -   Recent publication in the prestigious **Water Research** Journal
 :::
