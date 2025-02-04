@@ -106,5 +106,8 @@
   },
   "docs/biography.qmd": {
     "biography.html": "ae4b162e"
+  },
+  "backup.qmd": {
+    "backup.html": "1cec3bf0"
   }
 }
