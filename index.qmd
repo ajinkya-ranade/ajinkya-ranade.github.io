@@ -1,6 +1,6 @@
 ---
 title: "Ajinkya Ranade, PhD"
-image: Ajinkya_original.jpeg
+image: Ajinkya.jpg
 toc: false
 about:
   template: trestles
