@@ -1,0 +1,7 @@
+---
+title: "Research"
+---
+
+::: {style="text-align: justify"}
+![](pictures/research_section.png)
+:::

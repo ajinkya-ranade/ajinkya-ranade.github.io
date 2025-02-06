@@ -2,6 +2,8 @@
 title: "About" 
 ---
 
+![](pictures/research_path.png)
+
 ::: {style="text-align: justify"}
 After finishing my M.Sc. in Analytical Chemistry from R. Ruia College, Mumbai University, I worked as a Junior Research Fellow (JRF) at Walchand Center for Research in Nanotechnology and Bio-nanotechnology (wcRnb), Solapur, India. During my research journey at wcRnb, I was introduced to carbon nanotechnology. During the JRF project, I aimed to fabricate green carbon nanomaterials from agricultural waste products (otherwise burned away and causing air pollution) for environmental remediation. [***As an environmentalist, I consciously designed a project focusing on environmental conservation with a strong commitment to solving local water pollution problems.***]{.underline} The project focused on solving local textile wastewater pollution by fabricating and utilizing green-carbon material-based adsorbents (fabricated using agricultural waste prodcuts otherwise burnt away to cause air pollution) to remove widely utilized reactive red 141 (RR141) dye in local textile companies. Under highly acidic conditions, a 97% dye removal efficiency in 30 minutes of contact time was achieved.
 

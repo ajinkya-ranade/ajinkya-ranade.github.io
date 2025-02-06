@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Ajinkya Ranade
       - biography.qmd
+      - research.qmd
       - publications.qmd
       - presentations.qmd
       - awards.qmd
