@@ -3,6 +3,9 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: 
+    tracking-id: "G-11TK6VP1T8"
+    anonymize-ip: true
   title: ""
   navbar:
     left:
