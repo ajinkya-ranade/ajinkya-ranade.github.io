@@ -30,7 +30,7 @@ about:
 ---
 
 ::: {style="text-align: justify"}
-I am Ajinkya Ranade, currently working as JSPS postdoctoral fellow at [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"}, Japan. My research focusses on innovating efficient, sustainable and [**fit-for-purpose**]{.underline} water treatment technologies [**for water recycling and energy conservation.**]{.underline}
+I am Ajinkya Ranade, currently working as JSPS postdoctoral fellow at [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"}, Japan. My research focus is on innovating efficient, sustainable and [**fit-for-purpose**]{.underline} water treatment technologies [**for water recycling and energy conservation.**]{.underline}
 
 An analytical chemist with interdisciplinary research experience in graphene technology, semiconductor technology, optoelectronics, and wastewater treatment exploring opportunities to innovate **sustainable water treatment technologies** in the research and development sector. I aim to utilize my interdisciplinary knowledge to tackle **water-energy nexus and provide energy efficient and recyclable water treatment solutions** particularly for developing nations. Currently looking for organizations that provides me ample scope to nurture this interest and develop my skills.
 
