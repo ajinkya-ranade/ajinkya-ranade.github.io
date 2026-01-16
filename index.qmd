@@ -4,7 +4,7 @@ image: Ajinkya.jpg
 toc: false
 about:
   template: trestles
-  image-shape: rectangle
+  image-shape: rounded
   image-width: 23em
   links:
     - icon: linkedin
@@ -29,6 +29,7 @@ about:
       target: _blank
 ---
 
+<!--
 ::: {style="text-align: justify"}
 I am Ajinkya Ranade, currently working as JSPS postdoctoral fellow at [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"}, Japan. My research focus is on innovating efficient, sustainable and [**fit-for-purpose**]{.underline} water treatment technologies [**for water recycling and energy conservation.**]{.underline}
 
@@ -44,4 +45,17 @@ An analytical chemist with interdisciplinary research experience in graphene tec
 -   Published 3 first author publication and 9 co-author publications
 
 -   Recent publication in the prestigious **Water Research** Journal
+:::
+-->
+
+::: {style="text-align: justify"}
+I am Ajinkya Ranade, currently working as a Senior Technical Scientist at **INDRA Water**, where I am involved in the development and implementation of electrochemical water treatment technologies at commercial scale. A former **JSPS Postdoctoral Fellow** at the [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"}, Japan and **IOE-IISc postdoctoral fellow** at [Indian Institute of Science](https://iisc.ac.in/){target="_blank"}, Bangalore, India where my research focused on innovating efficient, sustainable, and [**fit-for-purpose**]{.underline} **water treatment technologies** [**for water recycling and energy conservation.**]{.underline}. I am an analytical chemist with strong interdisciplinary research experience spanning graphene technology, semiconductor materials, optoelectronics, and wastewater treatment. My work bridges advanced materials engineering, process design, and applied R&D, addressing challenges at the water–energy nexus, with particular emphasis on energy-efficient, scalable, and recyclable water treatment solutions, especially for developing regions.
+
+My expertise includes individual water treatment processes—such as adsorption, photocatalysis, and biodegradation—as well as synergistic treatment systems, notably **intimately coupled photocatalytic biodegradation (ICPB), with a critical focus on sustainability, energy efficiency, and system integration.**
+
+I have extensive experience in materials engineering, including **graphene and semiconductor technologies and optoelectronic systems**, with specialization in the fabrication of high-quality monolayer graphene using both atmospheric-pressure and low-pressure chemical vapor deposition (CVD) techniques.
+
+I have authored **three first-author** publications and **nine co-author** publications, including a recent publication in the prestigious **Water Research** journal.
+
+I seek to contribute to and lead initiatives that combine industrial innovation, translational research, and sustainable water infrastructure development to advance impactful water treatment technologies.
 :::
