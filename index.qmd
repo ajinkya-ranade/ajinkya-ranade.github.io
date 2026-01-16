@@ -29,7 +29,7 @@ about:
       target: _blank
     - icon: file-earmark-pdf
       text: CV
-      href: ./docs/Ajinkya_Ranade_CV.pdf
+      href: Ajinkya_Ranade_CV.pdf
       target: _blank
 ---
 
