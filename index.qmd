@@ -56,8 +56,6 @@ An analytical chemist with interdisciplinary research experience in graphene tec
 
 ::: {style="text-align: justify"}
 
-**Vision**
-
 I am an R&D scientist and innovator working at the intersection of advanced water treatment, semiconductor materials science, and sustainable systems engineering. My work is driven by a single ambition - to build the foundational technology that defines the next generation of industrial water treatment, the way Prof. Shuji Nakamura's work on GaN (Blue LED) at Nichia defined modern optoelectronics. 
 
 **Impact Highlights**
