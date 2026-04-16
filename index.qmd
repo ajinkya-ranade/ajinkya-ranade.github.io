@@ -35,6 +35,8 @@ about:
 
 <!--
 ::: {style="text-align: justify"}
+
+
 I am Ajinkya Ranade, currently working as JSPS postdoctoral fellow at [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"}, Japan. My research focus is on innovating efficient, sustainable and [**fit-for-purpose**]{.underline} water treatment technologies [**for water recycling and energy conservation.**]{.underline}
 
 An analytical chemist with interdisciplinary research experience in graphene technology, semiconductor technology, optoelectronics, and wastewater treatment exploring opportunities to innovate **sustainable water treatment technologies** in the research and development sector. I aim to utilize my interdisciplinary knowledge to tackle **water-energy nexus and provide energy efficient and recyclable water treatment solutions** particularly for developing nations. Currently looking for organizations that provides me ample scope to nurture this interest and develop my skills.
@@ -53,13 +55,34 @@ An analytical chemist with interdisciplinary research experience in graphene tec
 -->
 
 ::: {style="text-align: justify"}
-I am Ajinkya Ranade, currently working as a Senior Technical Scientist at **INDRA Water**, where I am involved in the development and implementation of electrochemical water treatment technologies at commercial scale. A former **JSPS Postdoctoral Fellow** at the [Institute of Science Tokyo](https://www.titech.ac.jp/english){target="_blank"}, Japan and **IOE-IISc postdoctoral fellow** at [Indian Institute of Science](https://iisc.ac.in/){target="_blank"}, Bangalore, India where my research focused on innovating efficient, sustainable, and [**fit-for-purpose**]{.underline} **water treatment technologies** [**for water recycling and energy conservation.**]{.underline}. I am an analytical chemist with strong interdisciplinary research experience spanning graphene technology, semiconductor materials, optoelectronics, and wastewater treatment. My work bridges advanced materials engineering, process design, and applied R&D, addressing challenges at the water–energy nexus, with particular emphasis on energy-efficient, scalable, and recyclable water treatment solutions, especially for developing regions.
 
-My expertise includes individual water treatment processes—such as adsorption, photocatalysis, and biodegradation—as well as synergistic treatment systems, notably **intimately coupled photocatalytic biodegradation (ICPB), with a critical focus on sustainability, energy efficiency, and system integration.**
+**Vision**
 
-I have extensive experience in materials engineering, including **graphene and semiconductor technologies and optoelectronic systems**, with specialization in the fabrication of high-quality monolayer graphene using both atmospheric-pressure and low-pressure chemical vapor deposition (CVD) techniques.
+I am an R&D scientist and innovator working at the intersection of advanced water treatment, semiconductor materials science, and sustainable systems engineering. My work is driven by a single ambition - to build the foundational technology that defines the next generation of industrial water treatment, the way Prof. Shuji Nakamura's work on GaN (Blue LED) at Nichia defined modern optoelectronics. 
 
-I have authored **three first-author** publications and **nine co-author** publications, including a recent publication in the prestigious **Water Research** journal.
+**Impact Highlights**
 
-I seek to contribute to and lead initiatives that combine industrial innovation, translational research, and sustainable water infrastructure development to advance impactful water treatment technologies.
+1) **Patent filed within 7 months of industry transition** — immediate translation of research into commercially protectable innovation
+
+2) **First-author publication in Water Research (2025)** — peer-reviewed evidence of breakthrough results in pharmaceutical pollutant remediation
+
+3) **13x faster kinetic degradation of pharmaceutical antibiotics compared to conventional photocatalysis**
+
+4) **90% reduction in electrical energy per order versus conventional photocatalysis**
+
+5) **JSPS Postdoctoral Fellow** — internationally competitive research fellowship, Tokyo Institute of Technology*
+
+6) **Dual India-Japan research background** — uniquely positioned to bridge both markets
+
+**Strategic Interests**
+
+1) Advanced biological-photocatalytic water treatment systems for industrial pharmaceutical and organic pollutant remediation
+
+2) Translating laboratory-proven treatment innovations into scalable, commercially deployable solutions
+
+3) Japan-India technology bridge: leveraging bilateral government frameworks to expand advanced water treatment into high-growth Asian markets
+
+4) Semiconductor-integrated photocatalytic systems for next-generation treatment efficiency
+
+5) Converting R&D breakthroughs into protectable intellectual property with commercial applications
 :::

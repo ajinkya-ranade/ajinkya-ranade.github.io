@@ -11,6 +11,7 @@ website:
     left:
       - href: index.qmd
         text: Ajinkya Ranade
+      - biography0.qmd
       - biography.qmd
       - research.qmd
       - publications.qmd
@@ -35,7 +36,7 @@ website:
 
 format:
   html:
-    theme: Cerulean #Materia
+    theme: Cerulean #Materia 
     # highlight-style: pygments
     # linkcolor: "#001FFD"
     css: styles.css
