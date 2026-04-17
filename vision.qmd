@@ -1,9 +1,10 @@
 ---
-title: "About" 
+title: "Vision" 
 ---
 
-![](pictures/research_path.png)
 
+
+```{=html}
 <!--
 ::: {style="text-align: justify"}
 After finishing my M.Sc. in Analytical Chemistry from R. Ruia College, Mumbai University, I worked as a Junior Research Fellow (JRF) at Walchand Center for Research in Nanotechnology and Bio-nanotechnology (wcRnb), Solapur, India. During my research journey at wcRnb, I was introduced to carbon nanotechnology. During the JRF project, I aimed to fabricate green carbon nanomaterials from agricultural waste products (otherwise burned away and causing air pollution) for environmental remediation. [***As an environmentalist, I consciously designed a project focusing on environmental conservation with a strong commitment to solving local water pollution problems.***]{.underline} The project focused on solving local textile wastewater pollution by fabricating and utilizing green-carbon material-based adsorbents (fabricated using agricultural waste prodcuts otherwise burnt away to cause air pollution) to remove widely utilized reactive red 141 (RR141) dye in local textile companies. Under highly acidic conditions, a 97% dye removal efficiency in 30 minutes of contact time was achieved.
@@ -17,12 +18,27 @@ Identifying the core mechanism of ICPB as the photoelectron transfer to biofilm,
 [***Utilizing my interdisciplinary research experience, I aim to innovate fit-for-purpose sustainable and efficient water treatment technology for water recycling and energy conservation.***]{.underline}
 :::
 -->
+```
 
 ::: {style="text-align: justify"}
-My research began with a practical commitment to solving water pollution problems. As a Junior Research Fellow at Walchand Center for Research in Nanotechnology, I fabricated green carbon nanomaterials from agricultural waste for textile wastewater remediation, achieving 97% dye removal efficiency in 30 minutes.
-Intrigued by graphene's potential in semiconductor technology, I pursued doctoral research at Nagoya Institute of Technology, Japan, under Dr. Golap Kalita. My work focused on integrating monolayer graphene with wide band-gap semiconductors (GaN, Ga₂O₃) to engineer high-performance UV photoresponsive heterojunction devices. The core contribution — a strategy to engineer interfacial contact quality and correlate it to photogenerated charge carrier dynamics — was highlighted internationally by [graphene-info](https://www.graphene-info.com/understanding-graphenegan-and-other-2d3d-interfaces-uv-illumination-could-be-crucial-next-gen){target="_blank"} and [nanowerk](https://www.nanowerk.com/nanotechnology-news2/newsid=52924.php){target="_blank"}.
+**The problem**
 
-I then secured an IOE-IISc Postdoctoral Fellowship at the Indian Institute of Science, Bangalore, applying my interface engineering expertise to synergic photocatalytic biodegradation water treatment. Identifying photoelectron transfer to biofilm as the fundamental mechanism governing treatment efficiency, I secured the JSPS Postdoctoral Fellowship at Tokyo Institute of Technology, one of Japan's most competitive international research awards. There, I proved my hypothesis experimentally: achieving complete pharmaceutical antibiotic degradation with 13x faster kinetics and 90% lower energy consumption versus conventional photocatalysis, published in Water Research (2025).
+Pharmaceutical and industrial wastewater contain organic micropollutants such as antibiotics, hormones, and persistent chemicals that are not effectively removed by conventional treatment systems. Even at trace levels, these compounds pose serious risks, including antimicrobial resistance and ecosystem disruption, shifting the focus from bulk treatment to targeted contaminant removal.
+This challenge is now being driven by regulation. The European Union has mandated the implementation of fourth-stage (quaternary) treatment by 2045 to specifically address micropollutants, fundamentally redefining wastewater treatment requirements.
 
-I am currently Senior Technical Scientist at a startup focused on wastewater treatment, implementing electrochemical treatment systems at commercial scale and filed my first industrial patent within seven months of joining industry.
+Current solutions are often energy-intensive and difficult to scale, creating a clear need for next-generation technologies that are efficient, scalable, and capable of meeting evolving regulatory demands.
+
+
+**The approach**
+
+The most valuable R&D contributions happen where rigorous fundamental science meets a commercially urgent problem. My research trajectory  from semiconductor interface engineering at Nagoya Institute of Technology to synergic photocatalytic biodegradation-based water treatment at IISc and Tokyo Institute of Technology  was built around exactly this boundary. The results: 13x faster pharmaceutical pollutant degradation, 90% lower energy consumption, published in Water Research (2025). These are not marginal gains. It represents a different order of performance the kind that makes a technology commercially viable where its predecessors were not.
+
+**The Japan-India opportunity**
+
+India's industrial water treatment market is vast, growing rapidly, and severely underserved. New bilateral frameworks between Japan and India, including a dedicated Japan-India Economic Affairs Division started from April 2026 by the  Ministry of Foreign Affairs of Japan (MOFA)  to support Japanese company expansion into India have created the most favorable environment in history for Japanese environmental technology to enter this market. My unique position: deep research roots in both countries, JSPS fellowship at Tokyo Institute of Technology, and a native understanding of India's industrial and regulatory landscape. That dual fluency is not easily replicated.
+
+**What I am building toward**
+
+Prof. Shuji Nakamura solved a problem that had defeated the entire semiconductor industry, working inside a small Japanese company. The conditions: deep scientific foundation, commercially urgent problem, and a company ready to back fundamental R&D. My scientific foundation is in place. The research has proven a genuine performance breakthrough. What remains is the right company  technically ambitious, commercially serious, and ready to build something foundational.
+
 :::

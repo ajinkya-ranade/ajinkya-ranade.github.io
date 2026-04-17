@@ -11,7 +11,7 @@ website:
     left:
       - href: index.qmd
         text: Ajinkya Ranade
-      - biography0.qmd
+      - vision.qmd
       - biography.qmd
       - research.qmd
       - publications.qmd
