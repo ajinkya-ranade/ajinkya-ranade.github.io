@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  # google-analytics: 
-  #   tracking-id: "G-11TK6VP1T8"
-  #   anonymize-ip: true
+  google-analytics:
+    tracking-id: "G-11TK6VP1T8"
+    anonymize-ip: true
   title: ""
   navbar:
     left:
@@ -33,10 +33,6 @@ website:
         target: _blank
       - icon: envelope
         href: mailto:ajinkyaranade3@gmail.com
-
-google-analytics:
-  tracking-id: "G-11TK6VP1T8"
-  anonymize-ip: true
 
 format:
   html:
