@@ -1,9 +1,12 @@
 ---
 title: "About" 
 ---
+
+```{=html}
 <!--
 ![](pictures/research_path.png)
 -->
+```
 
 ![](pictures/biography.png)
 
